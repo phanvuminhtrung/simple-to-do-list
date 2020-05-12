@@ -1,0 +1,31 @@
+body {
+    background-image: url("backart.jpg");
+    background-size: 1200px 650px;
+}
+
+#block1 {
+    width: 50%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+#block2 {
+    width: 30%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+.title {
+    color: rgb(233, 176, 21);
+}
+
+.footer {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    font-size: 13px;
+    color: rgb(233, 176, 21);
+    margin-top: 10%
+}
