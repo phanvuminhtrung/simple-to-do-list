@@ -1,6 +1,6 @@
 Purpose: help you planout daily task! 
 
-To use it: http://spinningwheel.troyphan.space/
+To use it: http://todolist.troyphan.space/
 
 Limitation: 
 - stored all data in 1 session only.
