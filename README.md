@@ -1,6 +1,6 @@
 Purpose: help you planout daily task! 
 
-To use it: http://todolist.troyphan.space/
+To use it: https://todolistjstroyphan.netlify.app
 
 Limitation: 
 - stored all data in 1 session only.
